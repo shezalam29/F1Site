@@ -1,7 +1,19 @@
+
+
 body {
-  font-family: Gill Sans, sans-serif;
-  background-color: black;
+  font-family: "Monaco", "Courier New", monospace;
+  color: black;
   text-align: center;
+
+
+}
+
+body2 {
+  font-family: Helvetica, sans-serif;
+  color: black;
+  text-align: left;
+  font-size: 20px;
+
 }
 
 a {
@@ -15,9 +27,15 @@ img {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 30%;
+  width: 50%;
 
 }
+#hp  {
+  float: left;  
+  margin: 15px 15px 15px 15px;  
+
+  }
+
 
 .link {
   margin: 20px;
