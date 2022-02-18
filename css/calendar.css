@@ -1,0 +1,61 @@
+
+  a {
+    text-decoration: none;
+    color: red;
+    background-color: white;
+    padding: 10px;
+  }
+
+  .link {
+    margin: 20px;
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+
+  img {
+    border-radius: 8px;
+    margin: 16px;
+  }
+  
+  body {
+    font-family: "Monaco", "Courier New", monospace;
+    color: black;
+    text-align: left;
+    background-color: white;
+    padding: 20px;
+  }
+  
+  .main {
+    max-width: 1000px;
+    margin: auto;
+  }
+  
+
+  button {
+    border-radius: 8px;
+    border-width: 4px;
+    border-color: red;
+    color: red;
+    background-color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 8px 8px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    font-family: "Monaco", "Courier New", monospace;
+  }
+
+  button:hover {
+    background-color:red;
+    color: black;
+  }
+  
+  
+
+
+  
