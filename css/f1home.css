@@ -1,19 +1,17 @@
-
-
 body {
   font-family: "Monaco", "Courier New", monospace;
   color: black;
-  text-align: center;
-
-
+  text-align: left;
 }
 
-body2 {
-  font-family: Helvetica, sans-serif;
-  color: black;
-  text-align: left;
-  font-size: 20px;
+h1
+{
+  text-align: center;
+}
 
+h2
+{
+  text-align: center;
 }
 
 a {
@@ -30,6 +28,7 @@ img {
   width: 50%;
 
 }
+
 #hp  {
   float: left;  
   margin: 15px 15px 15px 15px;  
