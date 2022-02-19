@@ -2,6 +2,8 @@ body {
   font-family: "Monaco", "Courier New", monospace;
   color: black;
   text-align: left;
+  padding: 20px;
+
 }
 
 h1
